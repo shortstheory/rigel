@@ -1,4 +1,3 @@
-
 /*
           "                  ""#
   m mm  mmm     mmmm   mmm     #
@@ -8,15 +7,7 @@
                 m  #
                  ""
 */
-/*to be done:
- * make window draw iteration before game starts
- * have a restart button?
- * gamePausedText not showing
- * */
-//scores files <-- linked blocks eliminate this DONE
-//have cool high contrast level3  DONE!
-//work on balloon mechanics DONE!
-//DONE: work on menus level selector GUI DONE!
+//Arnav Dhamija, 2015
 #include <iostream>
 #include <fstream>
 #include <SFML/Graphics.hpp>
